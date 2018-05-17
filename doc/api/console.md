@@ -221,7 +221,7 @@ undefined
 
 ### console.debug(data[, ...args])
 <!-- YAML
-added: v8.0.0
+added: v8.10.0
 changes:
   - version: v9.3.0
     pr-url: https://github.com/nodejs/node/pull/17033
